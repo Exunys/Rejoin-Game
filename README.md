@@ -12,12 +12,12 @@ A good way to refresh your game, removes all of the currently executed scripts.
 
 ### Script
 
-Load the script by using the code below or by copying it from [here](https://github.com/UbicastDev/Rejoin-Game/blob/main/Rejoin%20Game).
+Load the script by using the code below or by copying it from [here](https://github.com/Exunys/Rejoin-Game/blob/main/Rejoin%20Game.lua).
 ```lua
 loadstring(game:HttpGet("https://pastebin.com/raw/1gtVMUz3"))()
 ```
 
 ## Contact information
 
-- Discord : [Aleksandar](https://discord.com/users/611111398818316309)
-- ROBLOX : [Ubicast](https://www.roblox.com/users/330279990/profile)
+- Discord : [Exunys](https://discord.com/users/611111398818316309)
+- ROBLOX : [Exunys](https://www.roblox.com/users/330279990/profile)
